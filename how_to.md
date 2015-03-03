@@ -17,7 +17,7 @@ Ideally, we'd like to have a hundred texts to serve as a testbed for the GITenbe
     
     Note: following instructions need a lot of elaboration!
 4. If you want to add directly to the list:  
-    1. "fork" the gitenberg-dev repo
+    1. "fork" the gitenberg-dev/wiki repo
     2. add the url of the repo you've selected, along with your github username to your copy of activerepos.csv
     3. commit the change to your copy
     4. submit a pull request to gitenberg-dev/master
